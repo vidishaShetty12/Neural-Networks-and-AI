@@ -3,7 +3,7 @@
 ## Brain, Neurons, and Models
 #### This code effectively simulates a basic McCulloch-Pitts neuron, showing how it processes input and generates a binary output based on the given threshold and weights. This forms a fundamental part of neural network computations
 
-## Creating a simple Perceptron-based neural network for handwritten digit recognition. Here's a short description of each step:
+## Creating a simple Perceptron-based neural network for handwritten digit recognition.
 
 #### Prepare Grayscale Images: You need to generate a dataset of grayscale images, each representing a handwritten digit from 0 to 9. These images should be 20 x 20 pixels in size and should vary slightly to account for different writing styles. This dataset will serve as the training data for your Perceptron.
 
