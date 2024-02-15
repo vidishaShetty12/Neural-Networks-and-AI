@@ -1,3 +1,5 @@
 # Neural-Networks-and-AI
 ## Brain, Neurons, and Models
 #### This code effectively simulates a basic McCulloch-Pitts neuron, showing how it processes input and generates a binary output based on the given threshold and weights. This forms a fundamental part of neural network computations
+## Deep Neural Networks & Activation Functions
+#### he provided code defines a basic neural network with customizable layers and two types of activation functions: ReLU and Sigmoid. The Layer class initializes with random weights and biases and includes forward and backward propagation methods. The NeuralNetwork class handles the addition of layers, forward propagation of input data, and computation of loss using Mean Squared Error. The network's backpropagation utilizes the chain rule to calculate gradients and update parameters with a fixed learning rate. The example demonstrates a training loop over 1000 epochs, printing the loss at every 100th epoch, and concludes with the final loss indicating the network's performance on the input data.
