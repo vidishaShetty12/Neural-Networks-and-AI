@@ -1,3 +1,5 @@
 # Neural-Networks-and-AI
 ## Brain, Neurons, and Models
 #### This code effectively simulates a basic McCulloch-Pitts neuron, showing how it processes input and generates a binary output based on the given threshold and weights. This forms a fundamental part of neural network computations
+### Parameter Initialization and Training Sets
+#### The code for developing a prototype of the training, validation, and testing sets is designed to partition a dataset into subsets for a neural network's future training. It creates a scaled-down version of a larger dataset, preserving the original distribution of data across various categories. Typically, the split follows conventional proportions, often around 60-20-20% for training, validation, and testing sets respectively. The prototype serves as a miniaturized version of the full dataset, allowing for the verification of the model's learning capability and parameter tuning without the computational expense of using the full dataset. This approach is particularly useful for iterative testing and model refinement before scaling up to more extensive data.
