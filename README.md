@@ -1,3 +1,6 @@
 # Neural-Networks-and-AI
 ## Brain, Neurons, and Models
 #### This code effectively simulates a basic McCulloch-Pitts neuron, showing how it processes input and generates a binary output based on the given threshold and weights. This forms a fundamental part of neural network computations
+
+## Multilayer (Deep) Neural Network
+#### developing a multilayer neural network for a binary classification problem, specifically designed with a specified architecture: a sequence of layers with ReLU activation functions, culminating in a single neuron with a Sigmoid activation for binary output. Utilizing the Iris dataset, adapted for binary classification by selecting two species, we demonstrated the process of preparing the data, including feature scaling and splitting into training and testing sets. The neural network was implemented using TensorFlow and Keras, showcasing the construction of the model according to the given specifications, compiling it with appropriate parameters, and training it on the preprocessed dataset. The model's performance was evaluated on a test set, illustrating the practical application of deep learning techniques for binary classification tasks in a step-by-step manner.
